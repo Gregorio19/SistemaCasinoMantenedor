@@ -1,0 +1,347 @@
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.exe
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.pdb
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\bin\Debug\Casino.exe
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\bin\Debug\Casino.pdb
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\bin\Debug\itextsharp.dll
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Form1.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Form2.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Form3.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Form4.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Form5.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Form6.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\bin\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\bin\Debug\Casino.pdb
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\bin\Debug\itextsharp.dll
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Form1.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Form2.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Form3.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Form4.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Form5.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Form6.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\Casino\Casino\obj\x86\Debug\Casino.pdb
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\obj\x86\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\obj\x86\Debug\Casino.pdb
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\obj\x86\Debug\Casino.Form1.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\obj\x86\Debug\Casino.Form2.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\obj\x86\Debug\Casino.Form3.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\obj\x86\Debug\Casino.Form4.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\obj\x86\Debug\Casino.Form5.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\obj\x86\Debug\Casino.Form6.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\obj\x86\Debug\Casino.Form7.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\bin\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\bin\Debug\Casino.pdb
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1\Casino\bin\Debug\itextsharp.dll
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\obj\x86\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\obj\x86\Debug\Casino.pdb
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\bin\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\bin\Debug\Casino.pdb
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\bin\Debug\itextsharp.dll
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\obj\x86\Debug\Casino.Form1.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\obj\x86\Debug\Casino.Form2.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\obj\x86\Debug\Casino.Form3.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\obj\x86\Debug\Casino.Form4.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\obj\x86\Debug\Casino.Form5.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\obj\x86\Debug\Casino.Form6.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\obj\x86\Debug\Casino.Form7.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.1_64bits\Casino\obj\x86\Debug\Casino.Form8.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\bin\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\bin\Debug\Casino.pdb
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\bin\Debug\itextsharp.dll
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\obj\x86\Debug\Casino.Form1.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\obj\x86\Debug\Casino.Form2.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\obj\x86\Debug\Casino.Form3.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\obj\x86\Debug\Casino.Form4.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\obj\x86\Debug\Casino.Form5.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\obj\x86\Debug\Casino.Form6.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\obj\x86\Debug\Casino.Form7.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\obj\x86\Debug\Casino.Form8.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\obj\x86\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2_64bits\Casino\obj\x86\Debug\Casino.pdb
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.exe
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.pdb
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.Form1.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.Form2.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.Form3.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.Form4.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.Form5.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.Form6.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.Form7.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.Form8.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\bin\Debug\Casino.exe
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\bin\Debug\Casino.pdb
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\bin\Debug\itextsharp.dll
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.2.1_64bits\Casino\obj\x86\Debug\Casino.pdb
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\obj\x86\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\obj\x86\Debug\Casino.pdb
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\bin\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\bin\Debug\Casino.pdb
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\bin\Debug\itextsharp.dll
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\obj\x86\Debug\Casino.Form1.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\obj\x86\Debug\Casino.Form2.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\obj\x86\Debug\Casino.Form3.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\obj\x86\Debug\Casino.Form4.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\obj\x86\Debug\Casino.Form5.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\obj\x86\Debug\Casino.Form6.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\obj\x86\Debug\Casino.Form7.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\obj\x86\Debug\Casino.Form8.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3_64bits\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.exe
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.pdb
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\bin\Debug\Casino.exe
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\bin\Debug\Casino.pdb
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\bin\Debug\itextsharp.dll
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.Form1.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.Form2.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.Form3.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.Form4.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.Form5.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.Form6.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.Form7.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.Form8.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+C:\Users\GL\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.3.1_64bits\Casino\obj\x86\Debug\Casino.pdb
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\bin\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\bin\Debug\Casino.pdb
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\bin\Debug\itextsharp.dll
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.Form1.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.Form2.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.Form3.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.Form4.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.Form5.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.Form6.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.Form7.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.Form8.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.exe
+Z:\cgavanntec en mi Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.pdb
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.exe
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.4_64bits\Casino\obj\x86\Debug\Casino.pdb
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.exe
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.pdb
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\bin\Debug\Casino.exe
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\bin\Debug\Casino.pdb
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\bin\Debug\itextsharp.dll
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.csprojResolveAssemblyReference.cache
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.Form1.resources
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.Form2.resources
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.Form3.resources
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.Form4.resources
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.Form5.resources
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.Form6.resources
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.Form7.resources
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.Form8.resources
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+X:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.5_64bits\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.exe
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.pdb
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\bin\Debug\Casino.exe
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\bin\Debug\Casino.pdb
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\bin\Debug\itextsharp.dll
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form1.resources
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form2.resources
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form3.resources
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form4.resources
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form5.resources
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form6.resources
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form7.resources
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form8.resources
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form9.resources
+U:\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.csprojResolveAssemblyReference.cache
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.exe
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.pdb
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\bin\Debug\Casino.exe
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\bin\Debug\Casino.pdb
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\bin\Debug\itextsharp.dll
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form1.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form2.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form3.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form4.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form5.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form6.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form7.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form8.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Form9.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.7_64bits\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\bin\Debug\Casino.exe
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\bin\Debug\Casino.pdb
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\bin\Debug\itextsharp.dll
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form11.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form1.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form10.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form2.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form3.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form4.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form5.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form6.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form7.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form8.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form9.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.exe
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.pdb
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\bin\Debug\Casino.exe.config
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\bin\Debug\Casino.exe
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\bin\Debug\Casino.pdb
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\bin\Debug\itextsharp.dll
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form11.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form1.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form10.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form2.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form3.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form4.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form5.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form6.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form7.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form8.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Form9.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.exe
+W:\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura\Casino\obj\x86\Debug\Casino.pdb
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\bin\Debug\Casino.exe.config
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.exe
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.pdb
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\bin\Debug\Casino.exe
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\bin\Debug\Casino.pdb
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\bin\Debug\itextsharp.dll
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form11.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form1.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form10.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form2.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form3.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form4.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form5.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form6.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form7.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form8.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form9.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+\\Mac\Dropbox\04. Desarrollo_Vanntec\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\bin\Debug\Casino.exe.config
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.exe
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.pdb
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\bin\Debug\Casino.exe
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\bin\Debug\Casino.pdb
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\bin\Debug\itextsharp.dll
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form11.resources
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form1.resources
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form10.resources
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form2.resources
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form3.resources
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form4.resources
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form5.resources
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form6.resources
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form7.resources
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form8.resources
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Form9.resources
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+\\Mac\Dropbox\18. SVN\trunk\01. ReporteCasino\APPVB\CasinoV1.8_64bits_Sura-AltoMaipo\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\bin\Debug\Casino.exe.config
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\bin\Debug\Casino.exe
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\bin\Debug\Casino.pdb
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form13.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form11.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form1.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form10.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form12.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form14.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form15.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form16.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form17.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form18.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form19.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form2.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form20.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form3.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form4.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form5.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form6.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form7.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form8.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Form9.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.Properties.Resources.resources
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.exe
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.pdb
+\\Mac\Dropbox\18. SVN\branches\Casino\Casino\obj\x86\Debug\Casino.csprojResolveAssemblyReference.cache
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\bin\Debug\Casino.exe.config
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\bin\Debug\Casino.exe
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\bin\Debug\Casino.pdb
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form13.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form11.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form1.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form10.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form12.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form14.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form15.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form16.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form17.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form18.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form19.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form2.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form20.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form3.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form4.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form5.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form6.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form7.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form8.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form9.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Properties.Resources.resources
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.exe
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.pdb
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.csprojResolveAssemblyReference.cache
+C:\Users\jose.paz\Desktop\Totalpack\FuentesCasino\obj\x86\Debug\Casino.Form21.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\bin\Debug\Casino.exe.config
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.exe
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.pdb
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\bin\Debug\Casino.exe
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\bin\Debug\Casino.pdb
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.csprojResolveAssemblyReference.cache
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form13.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form11.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form1.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form10.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form12.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form14.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form15.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form16.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form17.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form18.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form19.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form2.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form20.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form21.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form3.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form4.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form5.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form6.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form7.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form8.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form9.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Properties.Resources.resources
+C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache

@@ -1,0 +1,35 @@
+17/04/2018 23:04:06 -- Sintaxis incorrecta cerca de '%'.
+17/04/2018 23:53:10 -- Input string was not in a correct format.
+17/04/2018 23:53:45 -- Input string was not in a correct format.
+18/04/2018 0:05:51 -- Index was outside the bounds of the array.
+18/04/2018 0:11:39 -- El nombre de columna 'iduser' no es válido.
+18/04/2018 0:19:20 -- El nombre de columna 'ge' no es válido.
+18/04/2018 0:21:01 -- El identificador formado por varias partes "cv.cargo" no se pudo enlazar.
+18/04/2018 0:30:53 -- Index was outside the bounds of the array.
+19/04/2018 1:10:52 -- Sintaxis incorrecta cerca de 'casino_valexusuarios'.
+19/04/2018 2:10:28 -- Infracción de la restricción PRIMARY KEY 'PK_casino_valexusuarios'. No se puede insertar una clave duplicada en el objeto 'dbo.casino_valexusuarios'. El valor de la clave duplicada es (7).
+Se terminó la instrucción.
+23/04/2018 23:56:54 -- Infracción de la restricción PRIMARY KEY 'PK_casino_valexusuarios'. No se puede insertar una clave duplicada en el objeto 'dbo.casino_valexusuarios'. El valor de la clave duplicada es (7).
+Se terminó la instrucción.
+24/04/2018 0:15:45 -- Infracción de la restricción PRIMARY KEY 'PK_casino_valexusuarios'. No se puede insertar una clave duplicada en el objeto 'dbo.casino_valexusuarios'. El valor de la clave duplicada es (7).
+Se terminó la instrucción.
+24/04/2018 0:16:53 -- Infracción de la restricción PRIMARY KEY 'PK_casino_valexusuarios'. No se puede insertar una clave duplicada en el objeto 'dbo.casino_valexusuarios'. El valor de la clave duplicada es (7).
+Se terminó la instrucción.
+24/04/2018 0:17:03 -- Infracción de la restricción PRIMARY KEY 'PK_casino_valexusuarios'. No se puede insertar una clave duplicada en el objeto 'dbo.casino_valexusuarios'. El valor de la clave duplicada es (7).
+Se terminó la instrucción.
+26/04/2018 1:43:38 -- El sistema no puede encontrar el archivo especificado
+26/04/2018 1:44:54 -- El sistema no puede encontrar el archivo especificado
+26/04/2018 1:47:03 -- El sistema no puede encontrar el archivo especificado
+29/04/2018 15:16:47 -- El sistema no puede encontrar el archivo especificado
+29/04/2018 15:41:08 -- Invalid attempt to read when no data is present.
+03/05/2018 13:12:57 -- Invalid attempt to read when no data is present.
+03/05/2018 13:18:35 -- Invalid attempt to read when no data is present.
+03/05/2018 13:30:38 -- Infracción de la restricción PRIMARY KEY 'PK_casino_valesusados'. No se puede insertar una clave duplicada en el objeto 'dbo.casino_valesusados'. El valor de la clave duplicada es (270).
+Se terminó la instrucción.
+04/05/2018 18:34:36 -- El sistema no puede encontrar el archivo especificado
+10/07/2018 11:25:09 -- El sistema no puede encontrar el archivo especificado
+11/07/2018 11:45:09 -- El sistema no puede encontrar el archivo especificado
+11/07/2018 11:45:41 -- El sistema no puede encontrar el archivo especificado
+11/07/2018 15:33:45 -- Índice fuera de los límites de la matriz.
+11/07/2018 17:15:29 -- La cadena de entrada no tiene el formato correcto.
+11/07/2018 17:15:40 -- La cadena de entrada no tiene el formato correcto.
