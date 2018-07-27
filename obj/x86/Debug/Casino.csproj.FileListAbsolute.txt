@@ -345,3 +345,32 @@ C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\
 C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Form9.resources
 C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.Properties.Resources.resources
 C:\Users\jose.paz\Desktop\Sistema Casino 2018-07-20\FuentesCasino\obj\x86\Debug\Casino.csproj.GenerateResource.Cache
+D:\CasinoGit\bin\Debug\Casino.exe.config
+D:\CasinoGit\obj\x86\Debug\Casino.exe
+D:\CasinoGit\obj\x86\Debug\Casino.pdb
+D:\CasinoGit\bin\Debug\Casino.exe
+D:\CasinoGit\bin\Debug\Casino.pdb
+D:\CasinoGit\obj\x86\Debug\Casino.csprojResolveAssemblyReference.cache
+D:\CasinoGit\obj\x86\Debug\Casino.Form13.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form11.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form1.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form10.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form12.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form14.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form15.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form16.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form17.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form18.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form19.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form2.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form20.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form21.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form3.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form4.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form5.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form6.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form7.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form8.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Form9.resources
+D:\CasinoGit\obj\x86\Debug\Casino.Properties.Resources.resources
+D:\CasinoGit\obj\x86\Debug\Casino.csproj.GenerateResource.Cache

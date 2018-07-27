@@ -166,6 +166,7 @@ namespace Casino
             radioButton4.Enabled = false;
             button1.Enabled = false;
             pictureBox1.Hide();
+            button4.Visible = true;
         }
 
         private void errorconnbd()
@@ -366,6 +367,7 @@ namespace Casino
 
         private void button2_Click(object sender, EventArgs e)
         {
+
             if (string.IsNullOrEmpty(fecini))
             {
                 string fecha1 = dateTimePicker1.Value.Date.ToString("yyyyMMdd");
@@ -555,6 +557,85 @@ namespace Casino
             }
         }
 
+        private void Reporte_total_usuario(int cuserid)
+        {
+            //varcuserid = cuserid;
+
+            try
+            {
+                f2conectarbd();
+
+                String consulta = "select distinct dd.DEPTNAME, du.SSN, du.Name, da.Name, 1 cantidad, du.MINZU, dcc.costoservicio, convert(varchar, dc.fecha, 105) dcfecha, convert(varchar, dc.fecha, 108) dchora, dm.MachineAlias, dc.sn, dc.ultm_reg " +
+                                    "from casino dc, " +
+                                         "casino_costos dcc, " +
+                                         "USERINFO du, " +
+                                         "DEPARTMENTS dd, " +
+                                         "ACTimeZones da, " +
+                                         "Machines dm " +
+                                    " where  du.USERID = dc.iduser " +
+                                    " and convert(varchar,dc.fecha,112) >= " + fecini +
+                                    " and convert(varchar,dc.fecha,112) <= " + fecfin +
+                                    " and dc.servicio = da.TimeZoneID " +
+                                    " and dc.servicio = dcc.idcosto " +
+                                    " and dc.fecha >= dcc.fecinival " +
+                                    " and dc.fecha <= dcc.fecfinval " +
+                                    " and dc.iduser = du.USERID " +
+                                    " and du.DEFAULTDEPTID = dd.DEPTID " +
+                                    " and dc.sn = dm.sn " +
+                                    " or dc.sn = 'MANUAL' " +
+                                    " and du.USERID = dc.iduser " +
+                                    " and convert(varchar,dc.fecha,112) >= " + fecini +
+                                    " and convert(varchar,dc.fecha,112) <= " + fecfin +
+                                    " and dc.servicio = da.TimeZoneID " +
+                                    " and dc.servicio = dcc.idcosto " +
+                                    " and dc.fecha >= dcc.fecinival " +
+                                    " and dc.fecha <= dcc.fecfinval " +
+                                    " and dc.iduser = du.USERID " +
+                                    " and du.DEFAULTDEPTID = dd.DEPTID " +
+                                    " order by dd.DEPTNAME, dcfecha, dchora, da.Name asc";
+                SqlCommand cmd = new SqlCommand(consulta, f2conn);
+                SqlDataReader reader = cmd.ExecuteReader();
+
+                if (reader.HasRows)
+                {
+                    while (reader.Read())
+                    {
+                        //MessageBox.Show("hola");
+                        string bddepto = Convert.ToString(reader[0]);
+                        string bdssn = Convert.ToString(reader[1]);
+                        string bdpersonal = Convert.ToString(reader[2]);
+                        string bdservicio = Convert.ToString(reader[3]);
+                        int bdcantidad = Convert.ToInt32(reader[4]);
+                        string bdccosto = Convert.ToString(reader[5]);
+                        int bdcostoserv = Convert.ToInt32(reader[6]);
+                        string bdfecha = Convert.ToString(reader[7]);
+                        string bdhora = Convert.ToString(reader[8]);
+                        string bdmachine = Convert.ToString(reader[9]);
+                        string snmachine = Convert.ToString(reader[10]);
+                        // MessageBox.Show("maquina " + snmachine);
+                        if (snmachine.CompareTo("MANUAL") == 0)
+                        {
+                            bdmachine = "MANUAL";
+                        }
+                        CultureInfo elGR = CultureInfo.CreateSpecificCulture("el-GR");
+                        string pasomiles = (bdcostoserv.ToString("0,0", elGR));
+                        dataGridView1.Rows.Add(bddepto, bdssn, bdpersonal, bdservicio, bdcantidad, bdccosto, pasomiles, bdfecha, bdhora, bdmachine);
+                    }
+                }
+                else
+                {
+                    countfalla = countfalla + 1;
+                    reader.Close();
+                }
+                reader.Close();
+                f2conn.Close();
+            }
+            catch (Exception)
+            {
+                errorconnbd();
+            }
+
+        }
         private void reporte1(int cuserid)
         {
             varcuserid = cuserid;
@@ -928,6 +1009,7 @@ namespace Casino
             validachecked = 0;
             button1.Enabled = false;
             pictureBox1.Show();
+            button4.Visible = false;
         }
 
         private void radioButton5_CheckedChanged(object sender, EventArgs e)
@@ -1789,26 +1871,37 @@ namespace Casino
                 foreach (DataGridViewRow row1 in dataGridView1.Rows)
                 {
                     hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row1.Cells[0].Value);
+                    hoja_trabajo.Cells[filaexcel, colexcel].HorizontalAlignment = Excel.XlHAlign.xlHAlignCenter;
                     colexcel = colexcel + 1;
                     hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row1.Cells[1].Value);
+                    hoja_trabajo.Cells[filaexcel, colexcel].HorizontalAlignment = Excel.XlHAlign.xlHAlignCenter;
                     colexcel = colexcel + 1;
                     hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row1.Cells[2].Value);
+                    hoja_trabajo.Cells[filaexcel, colexcel].HorizontalAlignment = Excel.XlHAlign.xlHAlignCenter;
                     colexcel = colexcel + 1;
-                    hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(row1.Cells[3].Value);
+                    //MessageBox.Show("Explota con " + row1.Cells[3].Value);
+                    hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row1.Cells[3].Value);
+                    hoja_trabajo.Cells[filaexcel, colexcel].HorizontalAlignment = Excel.XlHAlign.xlHAlignCenter;
                     colexcel = colexcel + 1;
-                    hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDateTime(row1.Cells[4].Value);
-                    filaexcel = filaexcel + 1;
+                    hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row1.Cells[4].Value);
+                    hoja_trabajo.Cells[filaexcel, colexcel].HorizontalAlignment = Excel.XlHAlign.xlHAlignCenter;
+                    colexcel = colexcel + 1;
 
                     hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row1.Cells[5].Value);
+                    hoja_trabajo.Cells[filaexcel, colexcel].HorizontalAlignment = Excel.XlHAlign.xlHAlignCenter;
                     colexcel = colexcel + 1;
-                    hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(row1.Cells[6].Value);
+                    hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(row1.Cells[6].Value);
+                    hoja_trabajo.Cells[filaexcel, colexcel].HorizontalAlignment = Excel.XlHAlign.xlHAlignCenter;
                     colexcel = colexcel + 1;
                     hoja_trabajo.Cells[filaexcel, colexcel].NumberFormat = "@";
                     hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row1.Cells[7].Value);
+                    hoja_trabajo.Cells[filaexcel, colexcel].HorizontalAlignment = Excel.XlHAlign.xlHAlignCenter;
                     colexcel = colexcel + 1;
                     hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row1.Cells[8].Value);
+                    hoja_trabajo.Cells[filaexcel, colexcel].HorizontalAlignment = Excel.XlHAlign.xlHAlignCenter;
                     colexcel = colexcel + 1;
                     hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row1.Cells[9].Value);
+                    hoja_trabajo.Cells[filaexcel, colexcel].HorizontalAlignment = Excel.XlHAlign.xlHAlignCenter;
                     filaexcel = filaexcel + 1;
 
                     colexcel = 2;
@@ -1899,7 +1992,7 @@ namespace Casino
                         colexcel = colexcel + 1;
                         hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row2.Cells[1].Value);
                         colexcel = colexcel + 1;
-                        hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(row2.Cells[2].Value);
+                        hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(row2.Cells[2].Value);
                         filaexcel = filaexcel + 1;
                         colexcel = 3;
                     }
@@ -1911,7 +2004,7 @@ namespace Casino
                             colexcel = colexcel + 1;
                             hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row2.Cells[1].Value);
                             colexcel = colexcel + 1;
-                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(row2.Cells[2].Value);
+                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(row2.Cells[2].Value);
                             filaexcel = filaexcel + 1;
                             colexcel = 3; 
                             
@@ -1931,7 +2024,7 @@ namespace Casino
                             hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 11;
 
                             colexcel = colexcel + 1;
-                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(pasomiles);
+                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(pasomiles);
                             hoja_trabajo.Cells[filaexcel, colexcel].Font.Bold = true;
                             hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 11;
 
@@ -1944,7 +2037,7 @@ namespace Casino
                             colexcel = colexcel + 1;
                             hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row2.Cells[1].Value);
                             colexcel = colexcel + 1;
-                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(row2.Cells[2].Value);
+                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(row2.Cells[2].Value);
                             filaexcel = filaexcel + 1;
                             colexcel = 3;
 
@@ -1965,7 +2058,7 @@ namespace Casino
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 11;
 
                 colexcel = colexcel + 1;
-                hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(pasomilesSf);
+                hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(pasomilesSf);
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Bold = true;
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 11;
 
@@ -1980,7 +2073,7 @@ namespace Casino
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Bold = true;
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 12;
                 colexcel = colexcel + 1;
-                hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(pasomilesf);
+                hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(pasomilesf);
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Bold = true;
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 12;
 
@@ -2085,7 +2178,7 @@ namespace Casino
                         colexcel = colexcel + 1;
                         hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row4.Cells[2].Value);
                         colexcel = colexcel + 1;
-                        hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(row4.Cells[3].Value);
+                        hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(row4.Cells[3].Value);
                         filaexcel = filaexcel + 1;
                         colexcel = 2;
                     }
@@ -2099,7 +2192,7 @@ namespace Casino
                             colexcel = colexcel + 1;
                             hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row4.Cells[2].Value);
                             colexcel = colexcel + 1;
-                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(row4.Cells[3].Value);
+                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(row4.Cells[3].Value);
                             filaexcel = filaexcel + 1;
                             colexcel = 2;
 
@@ -2119,7 +2212,7 @@ namespace Casino
                             hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 11;
 
                             colexcel = colexcel + 1;
-                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(pasomiles);
+                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(pasomiles);
                             hoja_trabajo.Cells[filaexcel, colexcel].Font.Bold = true;
                             hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 11;
 
@@ -2134,7 +2227,7 @@ namespace Casino
                             colexcel = colexcel + 1;
                             hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row4.Cells[2].Value);
                             colexcel = colexcel + 1;
-                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(row4.Cells[3].Value);
+                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(row4.Cells[3].Value);
                             filaexcel = filaexcel + 1;
                             colexcel = 2;
 
@@ -2155,7 +2248,7 @@ namespace Casino
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 11;
 
                 colexcel = colexcel + 1;
-                hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(pasomilesSf);
+                hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(pasomilesSf);
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Bold = true;
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 11;
 
@@ -2170,7 +2263,7 @@ namespace Casino
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Bold = true;
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 12;
                 colexcel = colexcel + 1;
-                hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(pasomilesf);
+                hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(pasomilesf);
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Bold = true;
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 12;
 
@@ -2267,7 +2360,7 @@ namespace Casino
                         colexcel = colexcel + 1;
                         hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row3.Cells[1].Value);
                         colexcel = colexcel + 1;
-                        hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(row3.Cells[2].Value);
+                        hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(row3.Cells[2].Value);
                         filaexcel = filaexcel + 1;
                         colexcel = 3;
                     }
@@ -2279,7 +2372,7 @@ namespace Casino
                             colexcel = colexcel + 1;
                             hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row3.Cells[1].Value);
                             colexcel = colexcel + 1;
-                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(row3.Cells[2].Value);
+                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(row3.Cells[2].Value);
                             filaexcel = filaexcel + 1;
                             colexcel = 3;
 
@@ -2299,7 +2392,7 @@ namespace Casino
                             hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 11;
 
                             colexcel = colexcel + 1;
-                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(pasomiles);
+                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(pasomiles);
                             hoja_trabajo.Cells[filaexcel, colexcel].Font.Bold = true;
                             hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 11;
 
@@ -2312,7 +2405,7 @@ namespace Casino
                             colexcel = colexcel + 1;
                             hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToString(row3.Cells[1].Value);
                             colexcel = colexcel + 1;
-                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(row3.Cells[2].Value);
+                            hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(row3.Cells[2].Value);
                             filaexcel = filaexcel + 1;
                             colexcel = 3;
 
@@ -2333,7 +2426,7 @@ namespace Casino
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 11;
 
                 colexcel = colexcel + 1;
-                hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(pasomilesSf);
+                hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(pasomilesSf);
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Bold = true;
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 11;
 
@@ -2348,7 +2441,7 @@ namespace Casino
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Bold = true;
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 12;
                 colexcel = colexcel + 1;
-                hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDouble(pasomilesf);
+                hoja_trabajo.Cells[filaexcel, colexcel] = Convert.ToDecimal(pasomilesf);
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Bold = true;
                 hoja_trabajo.Cells[filaexcel, colexcel].Font.Size = 12;
 
@@ -2441,6 +2534,63 @@ namespace Casino
             limpiarobjetos();
             Form21 frm21 = new Form21();
             frm21.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+            {
+                string fecha1 = dateTimePicker1.Value.Date.ToString("yyyyMMdd");
+                fecini = fecha1;
+            }
+            if (string.IsNullOrEmpty(fecfin))
+            {
+                string fecha2 = dateTimePicker2.Value.Date.ToString("yyyyMMdd");
+                fecfin = fecha2;
+            }
+
+            if (dateTimePicker2.Value < dateTimePicker1.Value)
+            {
+                MessageBox.Show("El campo 'Fecha Fin' no puede ser 'Menor' que el campo 'Fecha Inicio'", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+                DateTime now = DateTime.Now;
+                var fechainico = new DateTime(now.Year, now.Month, 1);
+
+                dateTimePicker1.Format = DateTimePickerFormat.Short;
+                dateTimePicker1.Value = new DateTime(fechainico.Year, fechainico.Month, fechainico.Day);
+                dateTimePicker2.Format = DateTimePickerFormat.Short;
+                dateTimePicker2.Value = new DateTime(now.Year, now.Month, now.Day);
+
+
+                /*dateTimePicker1.Format = DateTimePickerFormat.Short;
+                dateTimePicker1.Value = new DateTime(2015, 01, 01);
+                dateTimePicker2.Format = DateTimePickerFormat.Short;
+                dateTimePicker2.Value = new DateTime(2015, 01, 01);*/
+            }
+            else
+            {
+                    Reporte_total_usuario(1);
+                    validachecked4 = 1;
+                    //dataGridView1.Rows.Clear();
+                    checkedListBox1.Items.Clear();
+
+                    try
+                    {
+                        radioButton1.Enabled = false;
+                        radioButton4.Enabled = false;
+                        validachecked = 0;
+                        button1.Enabled = true;
+                        dataGridView1.Show();
+                        tiporeporte = 1;
+                    }
+                    catch (Exception)
+                    {
+                        errorconnbd();
+                    }
+                
+
+            }
+                
         }
     }
 }
