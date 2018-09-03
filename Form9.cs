@@ -712,8 +712,8 @@ namespace Casino
 
             else
             {
-                VMonStart = Convert.ToDateTime("2016-01-01 00:00:00");
-                VMonEnd = Convert.ToDateTime("2016-01-01 00:00:00");
+                VSatStart = Convert.ToDateTime("2016-01-01 00:00:00");
+                VSatEnd = Convert.ToDateTime("2016-01-01 00:00:00");
                 SVSatStart = VSatStart.ToString("yyyy-dd-MM HH:mm:ss");
                 SVSatEnd = VSatEnd.ToString("yyyy-dd-MM HH:mm:ss");
             }
